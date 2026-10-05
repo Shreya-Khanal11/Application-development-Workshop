@@ -1,0 +1,14 @@
+F:\ApplicationDEV\workshop2\Task 3\bin\Debug\net10.0\Task 3.exe
+F:\ApplicationDEV\workshop2\Task 3\bin\Debug\net10.0\Task 3.deps.json
+F:\ApplicationDEV\workshop2\Task 3\bin\Debug\net10.0\Task 3.runtimeconfig.json
+F:\ApplicationDEV\workshop2\Task 3\bin\Debug\net10.0\Task 3.dll
+F:\ApplicationDEV\workshop2\Task 3\bin\Debug\net10.0\Task 3.pdb
+F:\ApplicationDEV\workshop2\Task 3\obj\Debug\net10.0\Task 3.GeneratedMSBuildEditorConfig.editorconfig
+F:\ApplicationDEV\workshop2\Task 3\obj\Debug\net10.0\Task 3.AssemblyInfoInputs.cache
+F:\ApplicationDEV\workshop2\Task 3\obj\Debug\net10.0\Task 3.AssemblyInfo.cs
+F:\ApplicationDEV\workshop2\Task 3\obj\Debug\net10.0\Task 3.csproj.CoreCompileInputs.cache
+F:\ApplicationDEV\workshop2\Task 3\obj\Debug\net10.0\Task 3.dll
+F:\ApplicationDEV\workshop2\Task 3\obj\Debug\net10.0\refint\Task 3.dll
+F:\ApplicationDEV\workshop2\Task 3\obj\Debug\net10.0\Task 3.pdb
+F:\ApplicationDEV\workshop2\Task 3\obj\Debug\net10.0\Task 3.genruntimeconfig.cache
+F:\ApplicationDEV\workshop2\Task 3\obj\Debug\net10.0\ref\Task 3.dll
